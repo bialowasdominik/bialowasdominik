@@ -1,6 +1,7 @@
 # Hi there 👋
 - 💼 My name is Dominik Białowąs
 - 🔧 I am a full-stack developer focused on creating efficient and intuitive software that meets user needs.
+- 📫 You can get in touch with me by sending an email, or by filling out the contact form on my website.
 <!--
 **bialowasdominik/bialowasdominik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
