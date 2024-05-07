@@ -1,6 +1,7 @@
 # Hi there 👋
 - 💼 My name is Dominik Białowąs
-- 🔧 I am a full-stack developer focused on creating efficient and intuitive software that meets user needs.
+- 🔧 I'm a software tester specializing in test automation. I aim to provide users with reliable, efficient, and user-friendly software solutions.
+- ⌨️ In my free time (aside from climbing 🧗‍♀️ and running 👟), I enjoy programming, especially front-end applications using TypeScript. 
 - 📫 You can get in touch with me by sending an email, or by filling out the contact form on my website.
 <!--
 **bialowasdominik/bialowasdominik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
